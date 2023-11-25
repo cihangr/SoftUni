@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class bonusScore {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
-        int num = inp.nextInt();
+        int num = Integer.parseInt(inp.nextLine());
         double bonus=0;
-        if (num>0 && num<=100){
+        if (num>=0 && num<=100){
             bonus = 5;
         } else if (num>100 && num<=1000) {
             bonus = num *0.2;
