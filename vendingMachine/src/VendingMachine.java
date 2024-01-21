@@ -48,13 +48,16 @@ public class VendingMachine {
                 case "Soda" : price=0.8; break;
                 case "Coke" : price=1.0; break;
                 default:
-                    System.out.println("Invalid product\n");
+                    System.out.println("Invalid product");
+                    break;
             }
-            if (total>=price){
-                System.out.printf("Purchased %s\n", products);
-                total-=price;
-            } else {
-                System.out.println("Sorry, not enough money");
+            if (products.equals("Nuts") || products.equals("Water") || products.equals("Crisps") || products.equals("Soda") || products.equals("Coke")){
+                if (total>=price){
+                    System.out.printf("Purchased %s\n", products);
+                    total-=price;
+                } else {
+                    System.out.println("Sorry, not enough money");
+                }
             }
             products=inp.nextLine();
         }
