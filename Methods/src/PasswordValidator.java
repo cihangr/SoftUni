@@ -27,31 +27,40 @@ public class PasswordValidator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String password = scanner.nextLine();
-        checkPassword(password);
+        if (!isLengthOk(password)) {
+            System.out.println("Password must be between 6 and 10 characters");
+        }
+        if (!isConsistLettersAndDigits(password)) {
+            System.out.println("Password must consist only of letters and digits");
+        }
+        if (!isTwoDigits(password)) {
+            System.out.println("Password must have at least 2 digits");
+        }
+        if (isLengthOk(password) && isConsistLettersAndDigits(password) && isTwoDigits(password)){
+            System.out.println("Password is valid");
+        }
     }
-    public static void checkPassword(String pass){
-        boolean valid=true;
-        int counter=0;
 
-        for (int i = 0; i < pass.length(); i++) {
-            if(Character.isDigit(pass.charAt(i))){
+    public static boolean isLengthOk(String s) {
+        return s.length() > 6 && s.length() < 10;
+    }
+
+    public static boolean isConsistLettersAndDigits(String s) {
+        for (char symbol : s.toCharArray()) {
+            if (!Character.isLetterOrDigit(symbol)) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public static boolean isTwoDigits(String s) {
+        int counter = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (Character.isDigit(s.charAt(i))) {
                 counter++;
             }
         }
-        if (pass.length()<6 || pass.length()>10) {
-            System.out.println("Password must be between 6 and 10 characters");
-            valid=false;
-        }
-        if (!pass.matches("[a-zA-Z]{1,}[0-9]{1,}")) {
-            System.out.println("Password must consist only of letters and digits");
-            valid=false;
-        } else if (counter<2) {
-            System.out.println("Password must have at least 2 digits");
-            valid=false;
-        }
-        if (valid){
-            System.out.println("Password is valid");
-        }
-
+        return counter >= 2;
     }
 }

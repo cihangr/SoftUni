@@ -10,12 +10,17 @@ numbered print, whether the number is palindrome or not.
 public class PalindromeIntegers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String command="";
-        while (!command.equals("END")){
-            int i = Integer.parseInt(scanner.nextLine(command));
-            System.out.println(isPalindrome(i));
-            command=scanner.nextLine();
+        String number = scanner.nextLine();
+        while (!number.equals("END")){
+            System.out.println(isPalindrome(number));
+            number=scanner.nextLine();
         }
     }
-    
+    public static boolean isPalindrome(String n){
+        StringBuilder palindrome= new StringBuilder();
+        for (int j = n.length()-1; j >= 0 ; j--) {
+            palindrome.append(n.charAt(j));
+        }
+        return palindrome.toString().equals(n);
+    }
 }
