@@ -31,7 +31,7 @@ public class LongerLine {
         int x4 = Integer.parseInt(scanner.nextLine());
         int y4 = Integer.parseInt(scanner.nextLine());
         int finalX1,finalY1,finalX2,finalY2;
-        if (getLength(x1,y1,x2,y2)>getLength(x3,y3,x4,y4)){
+        if (getLength(x1,y1,x2,y2)>=getLength(x3,y3,x4,y4)){
             finalX1 = x1;
             finalY1 = y1;
             finalX2 = x2;

@@ -18,7 +18,7 @@ public class MultiplicationSign {
     public static String revealSign(int i1, int i2, int i3){
         int counter=0;
         if (i1==0 || i2==0 || i3==0){
-            return "0";
+            return "zero";
         }
         if (i1<0){
             counter++;
