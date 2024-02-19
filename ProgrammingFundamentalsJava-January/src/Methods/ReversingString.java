@@ -1,7 +1,8 @@
-import java.util.*;
-import java.io.*;
+package Methods;
 
-class Main {
+import java.util.*;
+
+class ReversingString {
 
     public static String FirstReverse(String str) {
         String reversed="";
