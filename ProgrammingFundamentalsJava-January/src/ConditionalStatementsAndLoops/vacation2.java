@@ -1,6 +1,8 @@
+package ConditionalStatementsAndLoops;
+
 import java.util.Scanner;
 
-public class vacation {
+public class vacation2 {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         double neededMoney = Double.parseDouble(inp.nextLine());

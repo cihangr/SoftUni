@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class InchToCm {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double inch = input.nextDouble();

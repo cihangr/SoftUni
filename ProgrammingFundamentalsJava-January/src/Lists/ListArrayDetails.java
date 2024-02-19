@@ -1,4 +1,4 @@
-package Lists;
+package Arrays;
 
 import java.util.*;
 import java.util.stream.Collectors;
