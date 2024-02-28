@@ -1,3 +1,5 @@
+package ConditionalStatementsAndLoops;
+
 import java.util.Scanner;
 public class travelling {
     public static void main(String[] args) {

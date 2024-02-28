@@ -1,3 +1,5 @@
+package ConditionalStatementsAndLoops;
+
 public class clock {
     public static void main(String[] args) {
         for (int i=0; i<24; i++){

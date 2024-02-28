@@ -1,3 +1,5 @@
+package DataTypesAndVariables;
+
 import java.util.Scanner;
 /*
 @CIHAN GUR

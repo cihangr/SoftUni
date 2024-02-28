@@ -82,8 +82,8 @@ public class ListOperations {
                         }
                     } else if (leftOrRight.equals("right") && digit>=0) {
                         while (digit>0){
-                            int move = numbers.get(numbers.size()-digit);
-                            numbers.remove(numbers.size()-digit);
+                            int move = numbers.get(numbers.size()-1);
+                            numbers.remove(numbers.size()-1);
                             numbers.add(0,move);
                             digit--;
                         }

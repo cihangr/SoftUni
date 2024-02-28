@@ -1,3 +1,5 @@
+package MidExamPrep;
+
 import java.util.Scanner;
 
 public class familyHoliday {

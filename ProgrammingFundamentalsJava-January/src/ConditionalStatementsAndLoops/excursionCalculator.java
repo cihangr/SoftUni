@@ -1,3 +1,5 @@
+package ConditionalStatementsAndLoops;
+
 import java.util.Scanner;
 
 public class excursionCalculator {

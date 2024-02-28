@@ -5,6 +5,7 @@ Read three real numbers and sort them in descending order.
 Print each number on a new line.
  */
 
+package ConditionalStatementsAndLoops;
 import java.util.Scanner;
 
 public class SortNumber {

@@ -7,6 +7,7 @@ Print all the info about the student in the following format:
 
  */
 
+package ConditionalStatementsAndLoops;
 import java.util.Scanner;
 
 public class StudentInformation {

@@ -1,10 +1,12 @@
+package ConditionalStatementsAndLoops;
+
 /*
 @CIHAN GUR
 
 ROCK - PAPER - SCISSORS GAME
 
  */
-public class Main {
+public class RockPaperScissors {
     public static void main(String[] args) {
 
     }

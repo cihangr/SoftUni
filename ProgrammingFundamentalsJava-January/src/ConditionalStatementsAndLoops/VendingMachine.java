@@ -1,4 +1,4 @@
-/*
+package ConditionalStatementsAndLoops;/*
 @CIHAN GUR
 
 Your task is to calculate the total purchase price from a vending machine.

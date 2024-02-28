@@ -1,4 +1,4 @@
-/*
+package ConditionalStatementsAndLoops;/*
 @cihangr
 
 Write a program that:

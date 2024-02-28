@@ -13,6 +13,7 @@ to the number. For example 145 is a strong number, because
 
 */
 
+package ConditionalStatementsAndLoops;
 import java.util.Scanner;
 
 public class strongNumber {

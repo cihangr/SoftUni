@@ -25,6 +25,7 @@ Input 145	Output 1412
 Input 214	Output Nothing found
 */
 
+package ConditionalStatementsAndLoops;
 import java.util.Scanner;
 
 public class sumAndProduct {

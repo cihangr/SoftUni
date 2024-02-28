@@ -1,4 +1,4 @@
-/*
+package ConditionalStatementsAndLoops;/*
 @CIHAN GUR
 
 Take as an input an even number and print its absolute value with a message:

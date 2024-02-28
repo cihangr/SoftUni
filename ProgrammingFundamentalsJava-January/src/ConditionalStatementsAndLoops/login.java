@@ -1,4 +1,4 @@
-/*   @cihangr
+package ConditionalStatementsAndLoops;/*   @cihangr
 
 You will be given a string representing a username. The password will be
 that username reversed. Until you receive the correct password, print on
