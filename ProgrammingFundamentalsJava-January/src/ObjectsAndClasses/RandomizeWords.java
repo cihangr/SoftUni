@@ -1,10 +1,9 @@
 package ObjectsAndClasses;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
-import java.util.stream.Collectors;
+import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Random;
+import java.util.Scanner;
 
 import static java.util.stream.Collectors.toList;
 
@@ -36,11 +35,38 @@ Java
 
 */
 public class RandomizeWords {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        List<String> words = Arrays.stream(scanner.nextLine().split(" ")).collect(Collectors.toList());
+        String inputString = scanner.nextLine();
 
+        // Split the string into words
+        String[] wordsArray = inputString.split(" ");
 
+        //FIRST METHOD//
+        /*
+        // Convert the string array to an ArrayList
+        ArrayList<String> words = new ArrayList<>();
+        Collections.addAll(words, wordsArray);
 
+        // Randomize the order of the words
+        Collections.shuffle(words);
+
+        // Print each word on a separate line
+        for (String word : words) {
+            System.out.println(word);
+        }
+        */
+        Random rdn = new Random();
+        for (int i = 0; i < wordsArray.length-1; i++) {
+            int rdn1 = rdn.nextInt(wordsArray.length);
+            int rdn2 = rdn.nextInt(wordsArray.length);
+            String oldWord = wordsArray[rdn1];
+            wordsArray[rdn1] = wordsArray[rdn2];
+            wordsArray[rdn2] = oldWord;
+        }
+
+        System.out.println(String.join(System.lineSeparator(), wordsArray));
+        }
     }
-}
+

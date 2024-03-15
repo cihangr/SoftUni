@@ -53,9 +53,11 @@ public class Main {
 
             command = scanner.nextLine();
         }
-
-        for (Students list : lists){
-            System.out.println();
+        String city = scanner.nextLine();
+        for (Students list : lists) {
+            if (city.equals(list.getCity())) {
+                System.out.printf("%s %s is %d years old\n", list.getName(), list.getSurname(), list.getAge());
+            }
         }
     }
 }
