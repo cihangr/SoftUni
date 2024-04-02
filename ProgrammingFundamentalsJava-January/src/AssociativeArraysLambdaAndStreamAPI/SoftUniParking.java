@@ -117,6 +117,7 @@ public class SoftUniParking {
 
             N--;
         }
+
         for(Map.Entry<String,String> records : registration.entrySet()){
             System.out.println(records.getKey()+" => "+records.getValue());
         }
