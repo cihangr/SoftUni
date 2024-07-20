@@ -1,4 +1,7 @@
 package SetAndMapsAdvanced.UniqueUsernames;
+
+import java.util.*;
+
 /*
 @CIHAN GUR
 
@@ -31,10 +34,26 @@ Peter
 Stephen
 George
 >>>>>OUTPUT
-
+Peter
+Maria
+George
+Stephen
+Alexander
 */
 public class UniqueUsernames {
     public static void main(String[] args) {
-        
+        Scanner scanner = new Scanner(System.in);
+        Set<String> usernames = new LinkedHashSet<>();
+        int n = Integer.parseInt(scanner.nextLine());
+        while (n-- > 0) {
+            String input = scanner.nextLine();
+            if (!usernames.contains(input)) {
+                usernames.add(input);
+            }
+        }
+        for (String username : usernames) {
+            System.out.println(username);
+        }
+
     }
 }

@@ -2,6 +2,7 @@ package StreamsFilesAndDirectories.ReadFile;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.Scanner;
 
 /*
@@ -28,24 +29,15 @@ public class ReadFile {
 
         String path ="/Users/cihangur/Desktop/CG/SoftUniLessons/JavaAdvanced/JavaAdvancedMay/src/StreamsFilesAndDirectories/ReadFile/input.txt";
 
-        try{
-            FileInputStream fileInputStream = new FileInputStream(path);
-        } catch (FileNotFoundException e) {
-            System.out.println("File not found" + path);
+        try(FileInputStream fileInputStream = new FileInputStream(path);){
+            int asciiCode = fileInputStream.read();
+            while (asciiCode >= 0) {
+                System.out.printf("%s ",Integer.toBinaryString(asciiCode));
+                asciiCode = fileInputStream.read();
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
         }
 
-
-        /*String line = scanner.nextLine();
-
-        while(!line.equals("END")){
-
-            for (int i = 0; i < line.length(); i++) {
-                char currentChar = line.charAt(i);
-                System.out.print(Integer.toBinaryString(currentChar) + " ");
-            }
-            System.out.println();
-
-            line = scanner.nextLine();
-        }*/
     }
 }
