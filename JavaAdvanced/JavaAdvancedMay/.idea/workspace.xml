@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14627094-e042-43a1-a295-a869c55fb7e9" name="Changes" comment="Steams and Directories Examples">
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomList 2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomList/CustomList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CustomListSorter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericBoxInteger.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericCountMethodString 2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericCountMethodString.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericCountMethodString/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericCountMethodString/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodIntegers.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodIntegers/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodIntegers/Swap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodStrings.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodStrings/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodStrings/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorsAndComparators/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorsAndComparators/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IteratorsAndComparators/MovieRatingComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/GenericBoxInteger/Box2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/GenericBoxInteger/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/GenericBoxInteger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/GenericBoxInteger/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2gQR1ftIeCbc54zoRkwt7vkLutl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AcademyGraduation.executor": "Run",
+    "Application.AllCapitals.executor": "Run",
+    "Application.AppliedArithmetics.executor": "Run",
+    "Application.AvarageStudentGrades.executor": "Run",
+    "Application.BalancedParentheses.executor": "Run",
+    "Application.BasicStackOperations.executor": "Run",
+    "Application.CitiesContinentAndCountry.executor": "Run",
+    "Application.CompanyRoster.executor": "Run",
+    "Application.CompareMatrices.executor": "Run",
+    "Application.ConsumerPrint.executor": "Run",
+    "Application.CountCharacterTypes.executor": "Run",
+    "Application.CountRealNumbers.executor": "Run",
+    "Application.CountSymbols.executor": "Run",
+    "Application.Crossfire.executor": "Run",
+    "Application.CustomComparator.executor": "Run",
+    "Application.CustomMinFunction.executor": "Run",
+    "Application.DecimalToBinaryConverter.executor": "Run",
+    "Application.DefiningClassesDemo.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DemoMultidimentionalArray.executor": "Run",
+    "Application.DiagonalDifference.executor": "Run",
+    "Application.DiagonalSquareMatrix.executor": "Run",
+    "Application.FillTheMatrix.executor": "Run",
+    "Application.FindTheRealQueen.executor": "Debug",
+    "Application.FindTheSmallestElement.executor": "Run",
+    "Application.FixEmails.executor": "Run",
+    "Application.FunctionalProgrammingDemo.executor": "Run",
+    "Application.GenericsDemo.executor": "Run",
+    "Application.GetFolderSize.executor": "Run",
+    "Application.HotPotato.executor": "Debug",
+    "Application.IntersectionOfTwoMatrices.executor": "Run",
+    "Application.KnightsOfHonor.executor": "Run",
+    "Application.LineNumber.executor": "Run",
+    "Application.ListOfPredicates.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MatchingBrackets.executor": "Run",
+    "Application.MathPotato.executor": "Debug",
+    "Application.MatrixOfPalindromes.executor": "Run",
+    "Application.MatrixShuffling.executor": "Run",
+    "Application.MaximalSum.executor": "Run",
+    "Application.MaximumElement.executor": "Run",
+    "Application.MergeFiles.executor": "Run",
+    "Application.MouseInTheKitchen.executor": "Run",
+    "Application.OffroadChallenge.executor": "Run",
+    "Application.ParkingLot.executor": "Run",
+    "Application.PeriodicTable.executor": "Run",
+    "Application.PhoneBook.executor": "Run",
+    "Application.PositionOf.executor": "Run",
+    "Application.PredicateForNames.executor": "Run",
+    "Application.PrinterQueue.executor": "Run",
+    "Application.ProductShop.executor": "Run",
+    "Application.RapidCourier.executor": "Debug",
+    "Application.ReadFile.executor": "Run",
+    "Application.RecursiveFibonacci.executor": "Run",
+    "Application.ReverseAndExclude.executor": "Run",
+    "Application.ReverseNumberWithStack.executor": "Run",
+    "Application.SetsAndMapsDemo.executor": "Run",
+    "Application.SetsOfElements.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
+    "Application.SoftUniParty.executor": "Run",
+    "Application.StreamsFilesDirectoriesDemo.executor": "Run",
+    "Application.StringMatrixRotation.executor": "Run",
+    "Application.SubMatrixSum.executor": "Run",
+    "Application.SumBytes.executor": "Run",
+    "Application.SumLines.executor": "Run",
+    "Application.SumMatrixElements.executor": "Run",
+    "Application.UniqueUsernames.executor": "Run",
+    "Application.Viona.executor": "Run",
+    "Application.WordCount.executor": "Run",
+    "Application.browserHistory.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/cihangur/Desktop/CG/SoftUniLessons/JavaAdvanced/JavaAdvancedMay/src/Generics/GenericSwapMethodIntegers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Generics/GenericSwapMethodIntegers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/StreamsFilesAndDirectories/ExercisesResources2" />
+      <recent name="$PROJECT_DIR$/src/StreamsFilesAndDirectories/ExcercisesResources" />
+      <recent name="$PROJECT_DIR$/src/Exam/VintageLocos" />
+      <recent name="$PROJECT_DIR$/src/Exam/RapidCourier" />
+      <recent name="$PROJECT_DIR$/src/Exam/Beesy" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14627094-e042-43a1-a295-a869c55fb7e9" name="Changes" comment="" />
+      <created>1715627602210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715627602210</updated>
+      <workItem from="1715627603285" duration="1301000" />
+      <workItem from="1715714070801" duration="625000" />
+      <workItem from="1715717219943" duration="2308000" />
+      <workItem from="1716827365461" duration="2772000" />
+      <workItem from="1717827280090" duration="30761000" />
+      <workItem from="1718431472552" duration="57363000" />
+      <workItem from="1719428549372" duration="3503000" />
+      <workItem from="1719515943151" duration="13346000" />
+      <workItem from="1719655646466" duration="26000" />
+      <workItem from="1719655677972" duration="5000" />
+      <workItem from="1719655687846" duration="4000" />
+      <workItem from="1719655695478" duration="16000" />
+      <workItem from="1719668966245" duration="49735000" />
+      <workItem from="1720853799800" duration="2514000" />
+      <workItem from="1720873227237" duration="6842000" />
+      <workItem from="1720953896190" duration="6719000" />
+      <workItem from="1721066341400" duration="31184000" />
+      <workItem from="1721676721249" duration="40702000" />
+      <workItem from="1722270562708" duration="15742000" />
+      <workItem from="1722444297614" duration="38509000" />
+    </task>
+    <task id="LOCAL-00001" summary="Steams and Directories Examples">
+      <option name="closed" value="true" />
+      <created>1721465996630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721465996630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Steams and Directories Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Steams and Directories Examples" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StacksAndQueues/test.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StacksAndQueues/PrinterQueue/PrinterQueue.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StacksAndQueues/HotPotato/HotPotato.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MultidimentionalArray/MaximumSumOf2x2Submatrix/SubMatrixSum.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SetAndMapsAdvanced/Viona/Viona.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StacksAndQueues/MathPotato/MathPotato.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StacksAndQueues/RecursiveFibonacci/RecursiveFibonacci.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MultidimentionalArray/FindTheRealQueen/FindTheRealQueen.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MultidimentionalArray/MaximalSum/MaximalSum.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MultidimentionalArray/StringMatrixRotation/StringMatrixRotation.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MultidimentionalArray/Crossfire/Crossfire.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SetAndMapsAdvanced/SetsOfElements/SetsOfElements.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SetAndMapsAdvanced/FIxEmails/FixEmails.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/StreamsFilesAndDirectories/MouseInTheKitchen/MouseInTheKitchen.java</url>
+          <line>180</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

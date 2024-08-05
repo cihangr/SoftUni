@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="419e5b96-7ecc-4616-88dd-77c307d923e4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ca2eD6EihmVEEIDorB5PXVIgqS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ActivationKey.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BigFactorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryDigitCounts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitAtPosition1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitDestryer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BlackFlag.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CeaserCipher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharacterMultiplier.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompanyUsers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountCharsInAString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountRealNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Courses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecryptingCommands.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DestinationMapper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DigitLettersAndOthers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EncryptingPassword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExtractEmails.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Followers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Furniture.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LegendaryFarming.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatchDates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatchFullName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatchPhoneNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinerTask.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplyBigNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddOccurrences.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Orders.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PthBit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomizeWords.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.RepeatStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceRepeatingChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SoftUniBarIncome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SoftUniParking.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StarEnigma.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExplosion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentAcademy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumBigNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextFilter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidUsernames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordFilter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordSynonyms.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/cihangur/Desktop/CG/SoftUniLessons/ProgrammingFundamentalsJava-January&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ConditionalStatementsAndLoops" />
+      <recent name="$PROJECT_DIR$/src/Basics" />
+      <recent name="$PROJECT_DIR$/src/Methods" />
+      <recent name="$PROJECT_DIR$/src/HTML" />
+      <recent name="$PROJECT_DIR$/src/MidExamPrep" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="419e5b96-7ecc-4616-88dd-77c307d923e4" name="Changes" comment="" />
+      <created>1708335462006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708335462006</updated>
+      <workItem from="1708335463036" duration="3994000" />
+      <workItem from="1708341774575" duration="341000" />
+      <workItem from="1708342118099" duration="624000" />
+      <workItem from="1708342746154" duration="1851000" />
+      <workItem from="1708408466447" duration="3263000" />
+      <workItem from="1708501926939" duration="4205000" />
+      <workItem from="1708589165443" duration="4551000" />
+      <workItem from="1708924120104" duration="13342000" />
+      <workItem from="1709095964625" duration="8950000" />
+      <workItem from="1709819021322" duration="4207000" />
+      <workItem from="1710402258600" duration="26390000" />
+      <workItem from="1711028438743" duration="51281000" />
+      <workItem from="1711692672644" duration="18318000" />
+      <workItem from="1711739520928" duration="2959000" />
+      <workItem from="1711791665492" duration="887000" />
+      <workItem from="1711795032811" duration="11000" />
+      <workItem from="1711796367289" duration="19210000" />
+      <workItem from="1715622671040" duration="14000" />
+      <workItem from="1715622690186" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/BlackFlag.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/RandomizeWords.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ObjectsAndClasses/Articles/Main.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AssociativeArraysLambdaAndStreamAPI/OddOccurrences.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegularExpressions/Furniture.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RegularExpressions/SoftUniBarIncome.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinalExamPrep/Demo.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

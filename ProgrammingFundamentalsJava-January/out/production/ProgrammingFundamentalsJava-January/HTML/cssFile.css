@@ -1,0 +1,21 @@
+h1 {
+    font-size: 42px;
+    color: #934c93;
+    text-align: center;
+}
+p {
+    padding-bottom: 15px;
+}
+
+.red{
+    color: red;
+}
+
+div {
+    display: inline-block;
+}
+.redblock{ background-color: red;}
+.blueblock{ background-color: blue;}
+.greenblock{ background-color: green;}
+.purpleblock{ background-color: purple;}
+.orangeblock{ background-color: orange;}
