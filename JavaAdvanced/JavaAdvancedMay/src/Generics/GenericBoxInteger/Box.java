@@ -3,9 +3,9 @@ package Generics.GenericBoxInteger;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Box2 <T> {
+public class Box<T> {
     private List<T> values;
-    public Box2() {
+    public Box() {
         this.values = new ArrayList<>();
     }
 

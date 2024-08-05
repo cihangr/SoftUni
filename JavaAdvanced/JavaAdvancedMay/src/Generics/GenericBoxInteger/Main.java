@@ -35,8 +35,6 @@ java.lang.Integer: 14
 java.lang.Integer: 15
 java.lang.Integer: 16
 */
-import Generics.GenericBox.Box;
-
 import java.util.Scanner;
 
 public class Main {
