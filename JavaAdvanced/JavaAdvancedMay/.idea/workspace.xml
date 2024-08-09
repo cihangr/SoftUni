@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14627094-e042-43a1-a295-a869c55fb7e9" name="Changes" comment="Steams and Directories Examples">
-      <change afterPath="$PROJECT_DIR$/src/Generics/CustomList 2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/CustomList/CustomList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/CustomList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/CustomListSorter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericBoxInteger.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericCountMethodString 2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericCountMethodString.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericCountMethodString/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericCountMethodString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodIntegers.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodIntegers/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodIntegers/Swap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodStrings.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodStrings/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericSwapMethodStrings/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorsAndComparators/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorsAndComparators/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IteratorsAndComparators/MovieRatingComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/GenericBoxInteger/Box2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/GenericBoxInteger/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Generics/GenericBoxInteger/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/GenericBoxInteger/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/OOP" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,96 +33,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AcademyGraduation.executor": "Run",
-    "Application.AllCapitals.executor": "Run",
-    "Application.AppliedArithmetics.executor": "Run",
-    "Application.AvarageStudentGrades.executor": "Run",
-    "Application.BalancedParentheses.executor": "Run",
-    "Application.BasicStackOperations.executor": "Run",
-    "Application.CitiesContinentAndCountry.executor": "Run",
-    "Application.CompanyRoster.executor": "Run",
-    "Application.CompareMatrices.executor": "Run",
-    "Application.ConsumerPrint.executor": "Run",
-    "Application.CountCharacterTypes.executor": "Run",
-    "Application.CountRealNumbers.executor": "Run",
-    "Application.CountSymbols.executor": "Run",
-    "Application.Crossfire.executor": "Run",
-    "Application.CustomComparator.executor": "Run",
-    "Application.CustomMinFunction.executor": "Run",
-    "Application.DecimalToBinaryConverter.executor": "Run",
-    "Application.DefiningClassesDemo.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.DemoMultidimentionalArray.executor": "Run",
-    "Application.DiagonalDifference.executor": "Run",
-    "Application.DiagonalSquareMatrix.executor": "Run",
-    "Application.FillTheMatrix.executor": "Run",
-    "Application.FindTheRealQueen.executor": "Debug",
-    "Application.FindTheSmallestElement.executor": "Run",
-    "Application.FixEmails.executor": "Run",
-    "Application.FunctionalProgrammingDemo.executor": "Run",
-    "Application.GenericsDemo.executor": "Run",
-    "Application.GetFolderSize.executor": "Run",
-    "Application.HotPotato.executor": "Debug",
-    "Application.IntersectionOfTwoMatrices.executor": "Run",
-    "Application.KnightsOfHonor.executor": "Run",
-    "Application.LineNumber.executor": "Run",
-    "Application.ListOfPredicates.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MatchingBrackets.executor": "Run",
-    "Application.MathPotato.executor": "Debug",
-    "Application.MatrixOfPalindromes.executor": "Run",
-    "Application.MatrixShuffling.executor": "Run",
-    "Application.MaximalSum.executor": "Run",
-    "Application.MaximumElement.executor": "Run",
-    "Application.MergeFiles.executor": "Run",
-    "Application.MouseInTheKitchen.executor": "Run",
-    "Application.OffroadChallenge.executor": "Run",
-    "Application.ParkingLot.executor": "Run",
-    "Application.PeriodicTable.executor": "Run",
-    "Application.PhoneBook.executor": "Run",
-    "Application.PositionOf.executor": "Run",
-    "Application.PredicateForNames.executor": "Run",
-    "Application.PrinterQueue.executor": "Run",
-    "Application.ProductShop.executor": "Run",
-    "Application.RapidCourier.executor": "Debug",
-    "Application.ReadFile.executor": "Run",
-    "Application.RecursiveFibonacci.executor": "Run",
-    "Application.ReverseAndExclude.executor": "Run",
-    "Application.ReverseNumberWithStack.executor": "Run",
-    "Application.SetsAndMapsDemo.executor": "Run",
-    "Application.SetsOfElements.executor": "Run",
-    "Application.SimpleCalculator.executor": "Run",
-    "Application.SoftUniParty.executor": "Run",
-    "Application.StreamsFilesDirectoriesDemo.executor": "Run",
-    "Application.StringMatrixRotation.executor": "Run",
-    "Application.SubMatrixSum.executor": "Run",
-    "Application.SumBytes.executor": "Run",
-    "Application.SumLines.executor": "Run",
-    "Application.SumMatrixElements.executor": "Run",
-    "Application.UniqueUsernames.executor": "Run",
-    "Application.Viona.executor": "Run",
-    "Application.WordCount.executor": "Run",
-    "Application.browserHistory.executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/cihangur/Desktop/CG/SoftUniLessons/JavaAdvanced/JavaAdvancedMay/src/Generics/GenericSwapMethodIntegers",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AcademyGraduation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllCapitals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AppliedArithmetics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AvarageStudentGrades.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BalancedParentheses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicStackOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CitiesContinentAndCountry.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompanyRoster.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareMatrices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsumerPrint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountCharacterTypes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountRealNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSymbols.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Crossfire.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomMinFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DecimalToBinaryConverter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefiningClassesDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoMultidimentionalArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiagonalDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DiagonalSquareMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FillTheMatrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindTheRealQueen.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.FindTheSmallestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FixEmails.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionalProgrammingDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetFolderSize.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HotPotato.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.IntersectionOfTwoMatrices.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KnightsOfHonor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LineNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListOfPredicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatchingBrackets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathPotato.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MatrixOfPalindromes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatrixShuffling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximalSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeFiles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MouseInTheKitchen.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OffroadChallenge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ParkingLot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeriodicTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PhoneBook.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PositionOf.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PredicateForNames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrinterQueue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductShop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RapidCourier.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ReadFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecursiveFibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAndExclude.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseNumberWithStack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetsAndMapsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SetsOfElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SoftUniParty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamsFilesDirectoriesDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMatrixRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubMatrixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumBytes.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumLines.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumMatrixElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueUsernames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Viona.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.browserHistory.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/cihangur/Desktop/CG/SoftUniLessons/JavaAdvanced/JavaAdvancedMay/src/Generics/GenericSwapMethodIntegers&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Generics/GenericSwapMethodIntegers" />
@@ -190,6 +171,7 @@
       <workItem from="1721676721249" duration="40702000" />
       <workItem from="1722270562708" duration="15742000" />
       <workItem from="1722444297614" duration="38509000" />
+      <workItem from="1722852217240" duration="255000" />
     </task>
     <task id="LOCAL-00001" summary="Steams and Directories Examples">
       <option name="closed" value="true" />
