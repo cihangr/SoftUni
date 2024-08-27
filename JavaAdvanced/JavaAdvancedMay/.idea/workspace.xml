@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14627094-e042-43a1-a295-a869c55fb7e9" name="Changes" comment="Steams and Directories Examples">
-      <change beforePath="$PROJECT_DIR$/../OOP/OOP" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/OOP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP/src/Polymorphism/MathOperation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP/src/Polymorphism/MathOperation/MathOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/OOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/OOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/OOP/src/ReflectionAndAnnotation/Skeletons/barracksWars/core/factories/UnitFactoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/OOP/src/ReflectionAndAnnotation/Skeletons/barracksWars/core/factories/UnitFactoryImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,8 +142,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
       </set>
     </attachedChunks>
   </component>
@@ -172,6 +176,7 @@
       <workItem from="1722270562708" duration="15742000" />
       <workItem from="1722444297614" duration="38509000" />
       <workItem from="1722852217240" duration="255000" />
+      <workItem from="1723293719077" duration="928000" />
     </task>
     <task id="LOCAL-00001" summary="Steams and Directories Examples">
       <option name="closed" value="true" />
