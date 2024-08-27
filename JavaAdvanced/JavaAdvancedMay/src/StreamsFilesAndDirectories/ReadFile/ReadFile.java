@@ -29,7 +29,7 @@ public class ReadFile {
 
         String path ="/Users/cihangur/Desktop/CG/SoftUniLessons/JavaAdvanced/JavaAdvancedMay/src/StreamsFilesAndDirectories/ReadFile/input.txt";
 
-        try(FileInputStream fileInputStream = new FileInputStream(path);){
+        try(FileInputStream fileInputStream = new FileInputStream(path)){
             int asciiCode = fileInputStream.read();
             while (asciiCode >= 0) {
                 System.out.printf("%s ",Integer.toBinaryString(asciiCode));
